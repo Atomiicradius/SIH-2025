@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Authenticity Validator for Academia",
+  "description": "A smart, scalable, and secure system to validate the authenticity of academic certificates. Upload a certificate image to perform an AI-powered analysis that checks for signs of forgery, extracts key details, and provides a verification report.",
+  "requestFramePermissions": []
+}
